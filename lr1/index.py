@@ -1,4 +1,4 @@
 def my_function(fname):
-  print(fname1 + " Refsnes")
+  print(fname + " Refsnes")
 
 my_function("Emil")
