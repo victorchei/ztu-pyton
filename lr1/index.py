@@ -1,4 +1,4 @@
 def my_function(fname):
-  print(fname + " Refsnes")
+  pr2int(fname + " Refsnes")
 
-my_function("Emil")
+my_functrion("Emil")
